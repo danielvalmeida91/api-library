@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/danielvalmeida91/www/projects/rocketseat/ApiGestaoLivraria/ApiGestaoLivraria/ApiGestaoLivraria.csproj": {}
+  },
+  "projects": {
+    "/Users/danielvalmeida91/www/projects/rocketseat/ApiGestaoLivraria/ApiGestaoLivraria/ApiGestaoLivraria.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielvalmeida91/www/projects/rocketseat/ApiGestaoLivraria/ApiGestaoLivraria/ApiGestaoLivraria.csproj",
+        "projectName": "ApiGestaoLivraria",
+        "projectPath": "/Users/danielvalmeida91/www/projects/rocketseat/ApiGestaoLivraria/ApiGestaoLivraria/ApiGestaoLivraria.csproj",
+        "packagesPath": "/Users/danielvalmeida91/.nuget/packages/",
+        "outputPath": "/Users/danielvalmeida91/www/projects/rocketseat/ApiGestaoLivraria/ApiGestaoLivraria/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielvalmeida91/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/Cellar/dotnet@8/8.0.15/libexec/sdk/8.0.115/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
