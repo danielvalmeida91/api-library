@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGestaoLivraria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7310572eef60e37dd3703d387045ed57d19679a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGestaoLivraria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGestaoLivraria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
